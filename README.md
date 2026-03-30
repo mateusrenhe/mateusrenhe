@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusrenhe)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=mateusrenhe)](https://github.com/mateusrenhe/github-readme-stats
 </div>
 
 ###
